@@ -25,7 +25,7 @@ export const GitHubShareButton: React.FC = () => {
           border: 0,
           transform: 'scale(1, 1)'
         }}
-        aria-hidden='true'
+        aria-hidden='false'
       >
         <path d='M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z' />
         <path
