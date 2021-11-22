@@ -7,19 +7,19 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'مدونة فوريفر الخليج متخصصة فى المكملات الغذائية',
+  name: 'Transitive Bullshit',
   domain: 'transitivebullsh.it',
-  author: 'فريق العمل',
+  author: 'Travis Fischer',
 
   // open graph metadata (optional)
-  description: 'متجر فوريفر الخليج المدونة رقم واحد فى الصحة',
-  socialImageTitle: 'مدونة فوريفر',
-  socialImageSubtitle: مرحبا بك فى فوريفر! 👋',
+  description: 'Example site description',
+  socialImageTitle: 'Transitive Bullshit',
+  socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'forevergulf',
+  twitter: 'transitive_bs',
   github: 'transitive-bullshit',
-  linkedin: 'forevergulf',
+  linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
