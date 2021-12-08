@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'forever gulf',
-  domain: 'forever-gulf.com',
-  author: 'forever gulf',
+  name: 'CouponWaly',
+  domain: 'CouponWaly.com',
+  author: 'CouponWaly',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -17,7 +17,7 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+  twitter: 'CouponWaly',
   github: 'transitive-bullshit',
   linkedin: 'fisch2',
 
