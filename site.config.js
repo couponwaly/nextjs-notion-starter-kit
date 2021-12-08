@@ -18,8 +18,8 @@ module.exports = {
 
   // social usernames (optional)
   twitter: 'CouponWaly',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  github: 'CouponWaly',
+  linkedin: 'CouponWaly',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
